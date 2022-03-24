@@ -9,19 +9,19 @@
 <table>
     <tr>
         <td>
-        <a href="https://github.com/OngDev/community/discussions/categories/project-ideas"><p>💡Project Ideas</p></a>
+        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/project-ideas"><p>💡Project Ideas</p></a>
         </td>
         <td>
-        <a href="https://github.com/OngDev/community/discussions/categories/q-a"><p>❓Q&A</p></a>
+        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/q-a"><p>❓Q&A</p></a>
         </td>
         <td>
-        <a href="https://github.com/OngDev/community/discussions/categories/general"><p> 💬General</p></a>
+        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/general"><p> 💬General</p></a>
         </td>
         <td>
-        <a href="https://github.com/OngDev/community/discussions/categories/udemy-request"><p>🎓Udemy Request</p></a>
+        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/udemy-request"><p>🎓Udemy Request</p></a>
         </td>
         <td>
-        <a href="https://github.com/OngDev/community/discussions/categories/video-request"><p>🎥Video Request</p></a>
+        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/video-request"><p>🎥Video Request</p></a>
         </td>
     </tr>
 </table>
@@ -30,12 +30,12 @@
 ##### Table of contents:
 - [Giới thiệu](#Giới-thiệu)
 - [Hướng dẫn sử dụng](#Hướng-dẫn-sử-dụng)
-    - [Cách tạo một discussion mới](#Hướng-dẫn-sử-dụng)
-- [Gia huấn nhà Ông Dev](#Gia-huấn-nhà-Ông-Dev)
+    - [Cách tạo discussion mới](#Cách-tạo-discussion-mới)
+- [Lưu ý](#Lưu-ý)
 
 ## Giới thiệu
 
-Đây là nơi mọi người có thể chia sẻ những ý tưởng về những project sắp tới của ông dev.
+Đây là nơi mọi người có thể chia sẻ những ý tưởng về những project sắp tới của CRF Team.
 
 Ở đây mọi người còn có thể đặt câu hỏi, nói chuyện, trao đổi, yêu cầu nội dung cho video mới của ông dev và còn nhiều điều nữa
 
@@ -43,7 +43,7 @@
 
 Mọi người có thể đọc [hướng dẫn này](https://docs.github.com/en/discussions) để biết tổng quát về chức năng discussion của github
 
-### Cách tạo một discussion mới
+### Cách tạo discussion mới
 
 1. [Ở trang hiện tại của các bạn đang đọc](https://github.com/ongdev/community/)
 2. Ở dưới tên của repo này, các bạn nhấn vào tab **Discussions**
