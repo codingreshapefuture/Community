@@ -45,7 +45,7 @@ Mọi người có thể đọc [hướng dẫn này](https://docs.github.com/en
 
 ### Cách tạo discussion mới
 
-1. [Ở trang hiện tại của các bạn đang đọc](https://github.com/ongdev/community/)
+1. [Ở trang hiện tại của các bạn đang đọc](https://github.com/Coding-Reshape-Future/Community)
 2. Ở dưới tên của repo này, các bạn nhấn vào tab **Discussions**
 ![image](https://user-images.githubusercontent.com/40050527/121480080-e2d8e300-c9f4-11eb-815d-2fd0dd93e237.png)
 3. Nhấn vào nhút **New Discussion**
