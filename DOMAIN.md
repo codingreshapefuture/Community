@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/open-domains/register/main/media/icon.png" height="128"></p>
-<h1 align="center">Open Domains</h1>
+<h1 align="center">Free Domains</h1>
 
 <p align="center">
   <a href="https://github.com/codingreshapefuture/Community/issues"><img src="https://img.shields.io/github/issues-raw/codingreshapefuture/Community?label=issues&style=for-the-badge"></a>
@@ -8,6 +8,19 @@
 
 <p align="center">Free subdomains for personal sites, open-source projects, and more.</p>
 <p align="center">Free <b>crfnetwork.cyou</b> subdomains for CRF members.</p>
+
+### Table of contents:
+- [Cộng đồng](#socials)
+- [Thông báo chuyển Domain](#thông-báo-chuyển-domain)
+- [Offer cho fan CRF](#offer-cho-fan-crf)
+- [Offer cho thành viên CRF](#offer-cho-thành-viên-crf)
+- [Dịch vụ hỗ trợ](#dịch-vụ-hỗ-trợ)
+- [Dịch vụ chưa hỗ trợ](#dịch-vụ-chưa-hỗ-trợ)
+- [Cấu hình](#settings)
+- [Đăng ký tên miền](#đăng-ký-tên-miền)
+  - [Lưu ý](#lưu-ý)
+  - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
+- [Giấp phép](#license)
 
 ### Socials
 
