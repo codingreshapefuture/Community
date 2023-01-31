@@ -18,16 +18,16 @@
         <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/general"><p> 💬General</p></a>
         </td>
         <td>
-        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/udemy-request"><p>🎓Udemy Request</p></a>
+        <a href="https://github.com/codingreshapefuture/Community/wiki"><p>🎓Wiki</p></a>
         </td>
         <td>
-        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/video-request"><p>🎥Video Request</p></a>
+        <a href="https://github.com/codingreshapefuture/Community/blob/main/DOMAIN.md"><p>🌍Domain Request</p></a>
         </td>
     </tr>
 </table>
 </div>
 
-##### Table of contents:
+#### Table of contents:
 - [Giới thiệu](#Giới-thiệu)
 - [Hướng dẫn sử dụng](#Hướng-dẫn-sử-dụng)
     - [Cách tạo discussion mới](#Cách-tạo-discussion-mới)
