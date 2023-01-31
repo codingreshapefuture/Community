@@ -1,20 +1,26 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: <your_domain>.crfnetwork.cyou
+about: Register a domain to join CRF community
+title: '<your_domain>.crfnetwork.cyou'
+labels: 'Domain'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Subdomain Register:** <your_domain>.crfnetwork.cyou
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Owner: ** https://github.com/<username>/
+  
+**Project (optinal): ** https://github.com/<username>/<repo>
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Contact infor: ** hello@example.com
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Records: ** (unsupport for now)
++ "A": ["1.1.1.1", "1.0.0.1"],
++ "AAAA": ["::1", "::2"],
++ "CNAME": "example.com.",
++ "MX": ["mx1.example.com.", "mx2.example.com."],
++ "NS": ["ns1.example.com.", "ns2.example.com."],
++ "TXT": ["example_verification=1234567890"]
+
+**Additional** Add any message or screenshots if you want to request here.
