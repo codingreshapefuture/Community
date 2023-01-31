@@ -27,7 +27,7 @@
 </table>
 </div>
 
-#### Table of contents:
+### Table of contents:
 - [Giới thiệu](#Giới-thiệu)
 - [Hướng dẫn sử dụng](#Hướng-dẫn-sử-dụng)
     - [Cách tạo discussion mới](#Cách-tạo-discussion-mới)
