@@ -2,8 +2,9 @@
 <h1 align="center">Free Domains</h1>
 
 <p align="center">
-  <a href="https://github.com/codingreshapefuture/Community/issues"><img src="https://img.shields.io/github/issues-raw/codingreshapefuture/Community?label=issues&style=for-the-badge"></a>
-  <a href="https://github.com/codingreshapefuture/Community/pulls"><img src="https://img.shields.io/github/issues-pr-raw/codingreshapefuture/Community?label=pull%20requests&style=for-the-badge"></a>
+  <a href="https://github.com/codingreshapefuture/Community/issues"><img src="https://img.shields.io/github/issues/codingreshapefuture/Community?label=issues&style=for-the-badge"></a>
+  <a href="https://github.com/codingreshapefuture/Community/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/codingreshapefuture/Community?label=issues&style=for-the-badge"></a>
+  <a href="https://github.com/codingreshapefuture/Community/blob/main/LICENSE"><img src="https://img.shields.io/github/license/codingreshapefuture/Community?label=license&style=for-the-badge"></a>
 </p>
 
 <p align="center">Free subdomains for personal sites, open-source projects, and more.</p>
