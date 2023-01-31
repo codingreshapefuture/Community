@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-**Subdomain Register:** <your_domain>.crfnetwork.cyou
++ Subdomain (required): <your_domain>.crfnetwork.cyou
 
-**Owner: ** https://github.com/<username>/
++ Owner (required): https://github.com/<username>/
   
-**Project (optinal): ** https://github.com/<username>/<repo>
++ Project (optinal): https://github.com/<username>/<repo>
 
-**Contact infor: ** hello@example.com
++ Contact infor (required): hello@example.com
 
-**Additional** Add any message or screenshots if you want to request here.
++ Additional (optinal): Add any message or screenshots if you want to request here.
