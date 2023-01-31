@@ -1,5 +1,5 @@
 ---
-name: <your_domain>.crfnetwork.cyou
+name: Register free domain
 about: Register a domain to join CRF community
 title: '<your_domain>.crfnetwork.cyou'
 labels: 'Domain'
