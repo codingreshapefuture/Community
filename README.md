@@ -1,21 +1,21 @@
-# [👉Community](https://github.com/Coding-Reshape-Future/Community/discussions)
+# [👉CRF Community Discussions](https://github.com/codingreshapefuture/Community/discussions) 
 
 <div align="center">
 
-[![crf](https://user-images.githubusercontent.com/90561566/159861898-0601c899-d82e-45e2-96bf-4473c20ab9df.jpg)](https://github.com/Coding-Reshape-Future/Community/discussions)
+[![crf](https://user-images.githubusercontent.com/90561566/159861898-0601c899-d82e-45e2-96bf-4473c20ab9df.jpg)](https://github.com/codingreshapefuture/Community/discussions)
     
-# [CRF Community](https://github.com/Coding-Reshape-Future/Community/discussions)
+# [![](https://img.shields.io/github/discussions/codingreshapefuture/Community?style=for-the-badge)](https://github.com/codingreshapefuture/Community/discussions)
 
 <table>
     <tr>
         <td>
-        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/project-ideas"><p>💡Project Ideas</p></a>
+        <a href="https://github.com/codingreshapefuture/Community/discussions/categories/project-ideas"><p>💡Project Ideas</p></a>
         </td>
         <td>
-        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/q-a"><p>❓Q&A</p></a>
+        <a href="https://github.com/codingreshapefuture/Community/discussions/categories/q-a"><p>❓Q&A</p></a>
         </td>
         <td>
-        <a href="https://github.com/Coding-Reshape-Future/Community/discussions/categories/general"><p> 💬General</p></a>
+        <a href="https://github.com/codingreshapefuture/Community/discussions/categories/general"><p> 💬General</p></a>
         </td>
         <td>
         <a href="https://github.com/codingreshapefuture/Community/wiki"><p>🎓Wiki</p></a>
@@ -45,7 +45,7 @@ Mọi người có thể đọc [hướng dẫn này](https://docs.github.com/en
 
 ### Cách tạo discussion mới
 
-1. [Ở trang hiện tại của các bạn đang đọc](https://github.com/Coding-Reshape-Future/Community)
+1. [Ở trang hiện tại của các bạn đang đọc](https://github.com/codingreshapefuture/Community)
 ![image](https://user-images.githubusercontent.com/90561566/165543614-08f1fc1a-a8d5-42d1-82ff-5c2db073deb3.png)
 2. Ở dưới tên của repo này, các bạn nhấn vào tab **Discussions**
 ![image](https://user-images.githubusercontent.com/40050527/121480080-e2d8e300-c9f4-11eb-815d-2fd0dd93e237.png)
@@ -58,9 +58,12 @@ Mọi người có thể đọc [hướng dẫn này](https://docs.github.com/en
 6. Nhấn vào **Start discussion** là xong.
 ![image](https://user-images.githubusercontent.com/40050527/121480726-917d2380-c9f5-11eb-9f16-26c638417e28.png)
 
-
 ## Lưu ý
 
 1. Trước khi tạo câu hỏi các bạn tìm xem, điều mình định hỏi có trùng với câu nào trong discussion không
 2. Lịch sự, cà khịa một cách tinh tế
 3. Tránh hỏi mấy câu hỏi riêng tư tiền nông các thể loại
+
+## Dịch vụ khác
+
+[🌍Domain Request](https://github.com/codingreshapefuture/Community/blob/main/DOMAIN.md)
