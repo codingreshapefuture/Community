@@ -79,7 +79,7 @@ This will hopefully be fixed soon.
 3. Chỉnh sửa theo thông tin của bạn như mô tả
 4. Đợi **Issue** được xem xét và theo dõi mọi cập nhật về **Issue** của bạn.
 5. Xem qua các mẫu phản hồi và nhận xét tại [ISSUE_REVIEW](https://github.com/codingreshapefuture/Community/blob/main/ISSUE_REVIEW.md)
-6. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [<your-subdomain>.crfnetwork.cyou](https://www.crfnetwork.cyou/). 🎉
+6. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [\*.crfnetwork.cyou](https://www.crfnetwork.cyou/). 🎉
 7. Một lần nữa, chúc mừng bạn đã tham gia vào cộng đồng CRF - Coding Reshape Future. Tận hưởng tên miền mới của bạn!
 
 ![image](https://user-images.githubusercontent.com/90561566/215681855-216241d6-b354-4804-a541-915391d75f30.png)
@@ -102,16 +102,23 @@ This will hopefully be fixed soon.
 Hướng dẫn cách sử dụng tên miền (cho Github, các tài liệu khác vui lòng liên hệ để biết thêm chi tiết)
 
 1. Go to Settings of your repo
-![image](https://user-images.githubusercontent.com/90561566/215683241-0ef0759b-316a-44bf-bd93-92cf453835d0.png)
-2. Click on Page tab
-![image](https://user-images.githubusercontent.com/90561566/215683317-a7941149-db1a-4c58-a7c1-240a5691cd2a.png)
-3. Choose your deploy as normal
-![image](https://user-images.githubusercontent.com/90561566/215683399-7356383f-0a0d-4665-857d-2d838d7426b9.png)
+
+![image](https://user-images.githubusercontent.com/90561566/215924891-665ed629-f506-438e-acdb-cf620f082df0.png)
+
+3. Click on Page tab and choose your deploy as normal (branch "main", / "root", save)
+
+![image](https://user-images.githubusercontent.com/90561566/215925123-6f04492e-ece6-40cd-87b8-04bb7c308d9e.png)
+
 4. Fill out your domain at Custom domain
-![image](https://user-images.githubusercontent.com/90561566/215683822-976ae7bb-8a83-41d8-8527-f72d6294cd18.png)
+
+![image](https://user-images.githubusercontent.com/90561566/215925481-fd03bf8c-487e-45de-b90e-7c4c9ed7b21f.png)
+
 5. Turn on this for secure your connection with HTTPS
-![image](https://user-images.githubusercontent.com/90561566/215683939-658d3e8e-0a88-4495-ac68-26c955eee347.png)
+
+![image](https://user-images.githubusercontent.com/90561566/215925530-ad0203f2-8f8d-4d63-be31-5050578ae3d5.png)
+
 6. Enjoy your domain!
+
 ![image](https://user-images.githubusercontent.com/90561566/215684156-764fab4a-5517-4287-bc68-b48c30e92acb.png)
 
 ### License
