@@ -82,7 +82,7 @@ This will hopefully be fixed soon.
 6. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [\*.crfnetwork.cyou](https://www.crfnetwork.cyou/). 🎉
 7. Một lần nữa, chúc mừng bạn đã tham gia vào cộng đồng CRF - Coding Reshape Future. Tận hưởng tên miền mới của bạn!
 
-![image](https://user-images.githubusercontent.com/90561566/215681855-216241d6-b354-4804-a541-915391d75f30.png)
+![image](https://user-images.githubusercontent.com/90561566/215926201-088c6729-f7ed-4a42-befb-bcee47ade350.png)
 
 + **Title**: Điền subdomain bạn muốn (ví dụ example.crfnetwork.cyou)
 + **Subdomain**: Điền subdomain bạn muốn (ví dụ example.crfnetwork.cyou)
@@ -105,21 +105,21 @@ Hướng dẫn cách sử dụng tên miền (cho Github, các tài liệu khác
 
 ![image](https://user-images.githubusercontent.com/90561566/215924891-665ed629-f506-438e-acdb-cf620f082df0.png)
 
-3. Click on Page tab and choose your deploy as normal (branch "main", / "root", save)
+2. Click on Page tab and choose your deploy as normal (branch "main", / "root", save)
 
 ![image](https://user-images.githubusercontent.com/90561566/215925123-6f04492e-ece6-40cd-87b8-04bb7c308d9e.png)
 
-4. Fill out your domain at Custom domain
+3. Fill out your domain at Custom domain
 
 ![image](https://user-images.githubusercontent.com/90561566/215925481-fd03bf8c-487e-45de-b90e-7c4c9ed7b21f.png)
 
-5. Turn on this for secure your connection with HTTPS
+4. Turn on this for secure your connection with HTTPS
 
 ![image](https://user-images.githubusercontent.com/90561566/215925530-ad0203f2-8f8d-4d63-be31-5050578ae3d5.png)
 
-6. Enjoy your domain!
+5. Enjoy your domain!
 
-![image](https://user-images.githubusercontent.com/90561566/215684156-764fab4a-5517-4287-bc68-b48c30e92acb.png)
+![image](https://user-images.githubusercontent.com/90561566/215926408-fe6e566e-1183-4982-b47c-4e6575f7b0bb.png)
 
 ### License
 
