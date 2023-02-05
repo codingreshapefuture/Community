@@ -78,8 +78,8 @@ This will hopefully be fixed soon.
 2. Mở một **[Issue](https://github.com/codingreshapefuture/Community/issues/new/choose)** và cung cấp thông tin như hình bên dưới
 3. Chỉnh sửa theo thông tin của bạn như mô tả
 4. Đợi **Issue** được xem xét và theo dõi mọi cập nhật về **Issue** của bạn.
-5. Xem qua các mẫu phản hồi và nhận xét tại [ISSUE_REVIEW](https://github.com/codingreshapefuture/Community/blob/main/ISSUE_REVIEW.md)
-6. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [\*.crfnetwork.cyou](https://www.crfnetwork.cyou/). 🎉
+5. Đảm bảo bạn đã xem qua các trạng thái phản hồi và luật phòng chống vi phạm :warning: tại [ISSUE_REVIEW](https://github.com/codingreshapefuture/Community/blob/main/ISSUE_REVIEW.md)
+6. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [\*.crfnetwork.cyou](https://www.crfnetwork.cyou/). :confetti_ball:
 7. Một lần nữa, chúc mừng bạn đã tham gia vào cộng đồng CRF - Coding Reshape Future. Tận hưởng tên miền mới của bạn!
 
 ![image](https://user-images.githubusercontent.com/90561566/215926201-088c6729-f7ed-4a42-befb-bcee47ade350.png)
