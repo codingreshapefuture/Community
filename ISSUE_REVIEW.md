@@ -1,6 +1,6 @@
-## Issue Review (update 05/02/2023)
+## Issue Review Status (update 05/02/2023)
 
-After opening an [ISSUE](https://github.com/codingreshapefuture/Community/issues), wait up to 24 working hours, you will get 3 response status as follows:
+After opening an [ISSUE](https://github.com/codingreshapefuture/Community/issues), wait up to 24 working hours, you will get 1 of 3 response statuses as follows:
 
 **SUCCESSFUL**: :heavy_check_mark:
 
