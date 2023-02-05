@@ -1,8 +1,10 @@
 ## Issue Review Status (update 05/02/2023)
 
-After opening an [ISSUE](https://github.com/codingreshapefuture/Community/issues), wait up to 24 working hours, you will get 1 of 3 response statuses as follows:
+Sau khi mở một [ISSUE](https://github.com/codingreshapefuture/Community/issues), hãy đợi tối đa 24 giờ làm việc, bạn sẽ nhận được 1 trong 3 trạng thái phản hồi như sau:
 
-**SUCCESSFUL**: :heavy_check_mark:
+> After opening an [ISSUE](https://github.com/codingreshapefuture/Community/issues), please wait up to 24 working hours, you will get 1 of 3 response statuses as follows:
+
+**Thành công: SUCCESSFUL**: :heavy_check_mark:
 
 ```markdown
 **SUCCESSFUL**: :heavy_check_mark:
@@ -10,7 +12,7 @@ After opening an [ISSUE](https://github.com/codingreshapefuture/Community/issues
 Your domain name has been approved with the cname record `example.github.io` -> `example.crfnetwork.cyou`.
 ```
 
-**FORMAT ERROR**: :bangbang:
+**Lỗi định dạng: FORMAT ERROR**: :bangbang:
 
 ```markdown
 **FORMAT ERROR**: :bangbang:
@@ -18,7 +20,7 @@ Your domain name has been approved with the cname record `example.github.io` -> 
 Format error, please read the [Register domain Wiki](https://github.com/codingreshapefuture/Community/wiki/Register-Domain) carefully and request again!
 ```
 
-**FAILURE**: :x:
+**Sai phạm: FAILURE**: :x:
 
 ```markdown
 **FAILURE**: :x:
@@ -46,6 +48,15 @@ Nếu bạn nhận cảnh báo với tín hiệu **FAILURE**: :x: tức là bạ
 + Copyright: Bạn sẽ bị cấm 7 ngày và xóa bỏ trang web nếu như nhận vi phạm bản quyền từ bất cứ đơn vị nào!
 + Infringe: Bạn sẽ bị cấm 14-30 ngày và xóa bỏ trang web nếu như vi phạm luật với bất cứ đơn vị nào!
 + Illegal: Bạn sẽ bị cấm vĩnh viễn và xóa bỏ trang web nếu như vi phạm luật của quốc gia về an toàn không gian mạng!
+
+> If you receive an alert with the signal **FAILURE**: :x: you are violating our policy:
+> 
+> + Spam: You will be rejected if the domain name is too spammy or inappropriate!
+> + Annoy: You will be banned for 1-3 days if you open 5 failed issues in one day!
+> + Wasted: We will check our domain list monthly and remove the registered domains that are not in use!
+> + Copyright: You will be banned for 7 days and remove the website if you receive copyright infringement from any unit!
+> + Infringe: You will be banned for 14-30 days and remove the website if you violate the law with any unit!
+> + Illegal: You will be permanently banned and removed from the site if you violate the country's law on cyber safety!
 
 ## Go back
 
