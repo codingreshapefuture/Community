@@ -1,6 +1,6 @@
 ## Issue Review
 
-After opening an ISSUE, wait up to 24 working hours, you will get 3 response status as follows:
+After opening an [ISSUE](https://github.com/codingreshapefuture/Community/issues), wait up to 24 working hours, you will get 3 response status as follows:
 
 **SUCCESSFUL**: :heavy_check_mark:
 
@@ -31,3 +31,7 @@ Registration failed, maybe your domain name violates policy and terms of use, pl
 Please note clearly if your ISSUE is closed with failue (:heavy_multiplication_x:) we will not accept any of your edits, open a new ISSUE.
 
 Hãy lưu ý ràng nếu ISSUE của bạn đã đóng với thất bại (:heavy_multiplication_x:) thì chúng tôi sẽ không chấp nhận bất kỳ chỉnh sửa nào của bạn, hãy mở một ISSUE mới.
+
+## Go back
+
+[Terms and Usage](https://github.com/codingreshapefuture/Community/blob/main/DOMAIN.md)
