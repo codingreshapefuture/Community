@@ -28,9 +28,11 @@ Registration failed, maybe your domain has violated our terms and policies, plea
 
 ## Note :warning:
 
-Hãy lưu ý ràng nếu ISSUE của bạn đã đóng với thất bại (:heavy_multiplication_x:) thì chúng tôi sẽ không chấp nhận bất kỳ chỉnh sửa nào của bạn, hãy mở một ISSUE mới.
+Hãy lưu ý ràng nếu ISSUE của bạn đã đóng với thất bại (:heavy_multiplication_x:) thì chúng tôi sẽ không chấp nhận bất kỳ chỉnh sửa nào của bạn.
 
-Hãy đọc kỹ hướng dẫn sử dụng trước khi dùng!
+Trong trường hợp này, hãy mở một ISSUE mới. Vui lòng đọc kỹ hướng dẫn sử dụng trước khi dùng!
+
+---
 
 Please note clearly if your ISSUE is closed with failue (:heavy_multiplication_x:) we will not accept any of your edits, open a new ISSUE.
 
