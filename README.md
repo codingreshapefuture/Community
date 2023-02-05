@@ -1,10 +1,10 @@
-# [👉CRF Community Discussions](https://github.com/codingreshapefuture/Community/discussions) 
+# [👉CRF Community Discussions](https://github.com/orgs/codingreshapefuture/discussions) 
 
 <div align="center">
 
-[![crf](https://user-images.githubusercontent.com/90561566/159861898-0601c899-d82e-45e2-96bf-4473c20ab9df.jpg)](https://github.com/codingreshapefuture/Community/discussions)
+[![crf](https://user-images.githubusercontent.com/90561566/159861898-0601c899-d82e-45e2-96bf-4473c20ab9df.jpg)](https://github.com/orgs/codingreshapefuture/discussions)
     
-# [![](https://img.shields.io/github/discussions/codingreshapefuture/Community?style=for-the-badge)](https://github.com/codingreshapefuture/Community/discussions)
+# [![](https://img.shields.io/github/discussions/codingreshapefuture/Community?style=for-the-badge)](https://github.com/orgs/codingreshapefuture/discussions)
 
 <table>
     <tr>
