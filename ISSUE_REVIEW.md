@@ -32,11 +32,9 @@ Hãy lưu ý ràng nếu ISSUE của bạn đã đóng với thất bại (:heav
 
 Trong trường hợp này, hãy mở một ISSUE mới. Vui lòng đọc kỹ hướng dẫn sử dụng trước khi dùng!
 
----
-
-Please note clearly if your ISSUE is closed with failue (:heavy_multiplication_x:) we will not accept any of your edits, open a new ISSUE.
-
-Please read the user manual carefully before use!
+> Please note clearly if your ISSUE is closed with failue (:heavy_multiplication_x:) we will not accept any of your edits, open a new ISSUE.
+> 
+> Please read the user manual carefully before use!
 
 ## Rules of preventing terms violation (update 05/02/2023)
 
