@@ -38,7 +38,7 @@ Please read the user manual carefully before use!
 
 ## Rules of preventing terms violation (update 05/02/2023)
 
-Nếu bạn nhận cảnh báo với tín hiệu **FAILURE**: :x: tức là bạn đang vi phạm chính sách của chúng tôi, bạn sẽ bị cấm khỏi tổ chức nếu như có biểu hiện vi phạm:
+Nếu bạn nhận cảnh báo với tín hiệu **FAILURE**: :x: tức là bạn đang vi phạm chính sách của chúng tôi:
 
 + Spam: Bạn sẽ bị từ chối nếu như đặt tên domain quá spam hoặc không phù hợp!
 + Annoy: Bạn sẽ bị ban 1-3 ngày nếu đã mở 5 issue fail trong một ngày!
