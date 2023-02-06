@@ -1,4 +1,4 @@
-## Issue Review Status (update 05/02/2023)
+## Issue Review Status (update 06/02/2023)
 
 Sau khi mở một [ISSUE](https://github.com/codingreshapefuture/Community/issues), hãy đợi tối đa 24 giờ làm việc, bạn sẽ nhận được 1 trong 3 trạng thái phản hồi như sau:
 
@@ -26,6 +26,14 @@ Format error, please read the [Register domain Wiki](https://github.com/codingre
 **FAILURE**: :x:
 
 Registration failed, maybe your domain has violated our terms and policies, please read [Rules of preventing terms violation](https://github.com/codingreshapefuture/Community/edit/main/ISSUE_REVIEW.md)!
+```
+
+**Trùng lặp: DUPLICATE**: :grey_exclamation:
+
+```markdown
+**DUPLICATE**: :x:
+
+Your domain has already been taken by another member. Please check [Registered domains](https://github.com/codingreshapefuture/Community/issues?q=is%3Aissue+is%3Aclosed) and request again another.
 ```
 
 ## Note :warning:
