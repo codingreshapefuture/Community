@@ -1,3 +1,5 @@
+# Free domain Register for CRF members
+
 <p align="center"><img src="https://raw.githubusercontent.com/open-domains/register/main/media/icon.png" height="128"></p>
 <h1 align="center">Free Domains</h1>
 
@@ -10,41 +12,49 @@
 <p align="center">Free subdomains for personal sites, open-source projects, and more.</p>
 <p align="center">Free <b>crfnetwork.cyou</b> subdomains for CRF members.</p>
 
-### Table of contents:
+## Table of contents:
 - [Cộng đồng](#socials)
-- [Thông báo chuyển Domain](#thông-báo-chuyển-domain)
+- [Giới thiệu](#introduction)
 - [Offer cho fan CRF](#offer-cho-fan-crf)
 - [Offer cho thành viên CRF](#offer-cho-thành-viên-crf)
 - [Dịch vụ hỗ trợ](#dịch-vụ-hỗ-trợ)
 - [Dịch vụ chưa hỗ trợ](#dịch-vụ-chưa-hỗ-trợ)
 - [Cấu hình](#settings)
-- [Đăng ký tên miền](#đăng-ký-tên-miền)
+- [Đăng ký tên miền](#cách-đăng-ký-tên-miền)
   - [Lưu ý](#lưu-ý)
   - [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
 - [Giấp phép](#license)
 
-### Socials
+## Socials
 
 + Our Fanpage: https://www.facebook.com/codingreshapefuture/
 + Join the groups: https://www.facebook.com/groups/itforbeginners
 + Discord server: https://discord.gg/ngTea92XP7
 + Youtube: https://www.youtube.com/c/CodingReshapeFuture
 
-### Thông báo chuyển Domain
+## Introduction
 
-Kể từ 31/01/2023, CRF sẽ chuyển tất cả các trang liên quan (home, profile, education, blog) về https://www.crfnetwork.cyou
+### cyou - A New Domain Extension For Gen Z individuals And Brands
 
-### [Offer cho fan CRF]
+![image](https://user-images.githubusercontent.com/90561566/217001829-b75b3c11-0d4f-4a39-b02a-327080f4a03a.png)
+
+`.cyou`, short for "See You", is a new-age domain extension crafted for today's generation of creative personalities and pathbreaking businesses that thrive on the Internet and have never witnessed a world without social media.  
+
+![image](https://user-images.githubusercontent.com/90561566/217001175-aff93907-8c0b-4f79-a190-3f2d83f90b00.png)
+
+Smartly positioned as the perfect domain extension for Gen Z and tech-savvy people, .cyou is well-suited for today’s digital natives in the likes of social media influencers, innovative brands, and for anyone who wishes to further their online presence and monetize their talents on the Internet. 
+
+## [Offer cho fan CRF]
 
 Tiện đây mình cũng sẽ mở một offer cho các bạn yêu thích CRF cơ hội được "cấp một domain free" và được tham gia vào thành viên của cộng đồng CRF.
 + Ví dụ: Tên bạn là "namdz" thì bạn sẽ được cấp domain "namdz.crfnetwork.cyou"
 
-### [Offer cho thành viên CRF]
+## [Offer cho thành viên CRF]
 
 Đối với các thành viên CRF, các bạn còn có thể sở hữu cho mình một email doanh nghiệp thuộc CRF của riêng mình thay vì gmail.com quá đỗi phổ biến.
 + Ví dụ: Tên bạn là "namdz", email bạn sẽ là "namdz@crfnetwork.cyou"
 
-### Dịch vụ hỗ trợ
+## Dịch vụ hỗ trợ
 
 Các bạn sẽ được cấp một free subdomain `*.crfnetwork.cyou` (example.crfnetwork.cyou)
 
@@ -57,7 +67,7 @@ Các bạn sẽ được cấp một free subdomain `*.crfnetwork.cyou` (example
 
 This will hopefully be fixed soon.
 
-### Settings
+## Settings
 
 | Setting | [`*.crfnetwork.cyou`](https://www.crfnetwork.cyou) |
 | :--- | :--- |
@@ -72,15 +82,16 @@ This will hopefully be fixed soon.
 | Browser Integrity Check*                             | ✅ |
 | [Caching Level](https://developers.cloudflare.com/cache/how-to/set-caching-levels), Browser Cache TTL* | Standard, 4 hours |
 
-## Đăng ký tên miền
+## Cách đăng ký tên miền
 
 1. Đầu tiên, đảm bảo bạn đã **Star** và **[Fork](https://github.com/codingreshapefuture/Community/fork)** dự án này
-2. Mở một **[Issue](https://github.com/codingreshapefuture/Community/issues/new/choose)** và cung cấp thông tin như hình bên dưới
-3. Chỉnh sửa theo thông tin của bạn như mô tả
-4. Đợi **Issue** được xem xét và theo dõi mọi cập nhật về **Issue** của bạn.
-5. Đảm bảo bạn đã xem qua các trạng thái phản hồi và luật phòng chống vi phạm :warning: tại [ISSUE_REVIEW](https://github.com/codingreshapefuture/Community/blob/main/ISSUE_REVIEW.md)
-6. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [\*.crfnetwork.cyou](https://www.crfnetwork.cyou/). :confetti_ball:
-7. Một lần nữa, chúc mừng bạn đã tham gia vào cộng đồng CRF - Coding Reshape Future. Tận hưởng tên miền mới của bạn!
+2. Trước khi bắt đầu, hãy chọn cho mình một cái tên thật ngầu và độc nhất, kiểm tra những tên miền đã được duyệt và đăng ký tại [Closed Issues](https://github.com/codingreshapefuture/Community/issues?q=is%3Aissue+is%3Aclosed)
+3. Mở một **[Issue](https://github.com/codingreshapefuture/Community/issues/new/choose)** và cung cấp thông tin như hình bên dưới
+4. Chỉnh sửa thông tin của bạn theo hướng dẫn
+5. :warning: Chắc chắn bạn đã đọc trạng thái phản hồi và luật phòng chống vi phạm tại [ISSUE_REVIEW](https://github.com/codingreshapefuture/Community/blob/main/ISSUE_REVIEW.md) trước khi yêu cầu
+6. Đợi **Issue** được xem xét và theo dõi mọi cập nhật về **Issue** của bạn tại email hoặc tại github.
+7. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [\*.crfnetwork.cyou](https://www.crfnetwork.cyou/). :confetti_ball:
+8. Một lần nữa, chúc mừng bạn đã tham gia vào cộng đồng CRF - Coding Reshape Future. Tận hưởng tên miền mới của bạn!
 
 ![image](https://user-images.githubusercontent.com/90561566/215926201-088c6729-f7ed-4a42-befb-bcee47ade350.png)
 
@@ -121,6 +132,6 @@ Hướng dẫn cách sử dụng tên miền (cho Github, các tài liệu khác
 
 ![image](https://user-images.githubusercontent.com/90561566/215926408-fe6e566e-1183-4982-b47c-4e6575f7b0bb.png)
 
-### License
+## License
 
 This project is under the [MIT License](https://github.com/codingreshapefuture/Community/blob/main/LICENSE).
