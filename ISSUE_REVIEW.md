@@ -31,7 +31,7 @@ Registration failed, maybe your domain has violated our terms and policies, plea
 **Trùng lặp: DUPLICATE**: :grey_exclamation:
 
 ```markdown
-**DUPLICATE**: :x:
+**DUPLICATE**: :grey_exclamation:
 
 Your domain has already been taken by another member. Please check [Registered domains](https://github.com/codingreshapefuture/Community/issues?q=is%3Aissue+is%3Aclosed) and request again another.
 ```
