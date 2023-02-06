@@ -1,8 +1,8 @@
 ## Issue Review Status (update 06/02/2023)
 
-Sau khi mở một [ISSUE](https://github.com/codingreshapefuture/Community/issues), hãy đợi tối đa 24 giờ làm việc, bạn sẽ nhận được 1 trong 3 trạng thái phản hồi như sau:
+Sau khi mở một [ISSUE](https://github.com/codingreshapefuture/Community/issues), hãy đợi tối đa 24 giờ làm việc, bạn sẽ nhận được 1 trong 34 trạng thái phản hồi như sau:
 
-> After opening an [ISSUE](https://github.com/codingreshapefuture/Community/issues), please wait up to 24 working hours, you will get 1 of 3 response statuses as follows:
+> After opening an [ISSUE](https://github.com/codingreshapefuture/Community/issues), please wait up to 24 working hours, you will get 1 of 4 response statuses as follows:
 
 **Thành công: SUCCESSFUL**: :heavy_check_mark:
 
