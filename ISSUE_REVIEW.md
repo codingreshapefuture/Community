@@ -36,13 +36,13 @@ Registration failed, maybe your domain has violated our terms and policies, plea
 Your domain has already been taken by another member. Please check [Registered domains](https://github.com/codingreshapefuture/Community/issues?q=is%3Aissue+is%3Aclosed) and request again another.
 ```
 
-## Note :warning:
+## Warning
 
-Hãy lưu ý ràng nếu ISSUE của bạn đã đóng với thất bại (:heavy_multiplication_x:) thì chúng tôi sẽ không chấp nhận bất kỳ chỉnh sửa nào của bạn.
+:warning: Hãy lưu ý rằng nếu ISSUE của bạn đã đóng với thất bại (:heavy_multiplication_x:) thì chúng tôi sẽ không chấp nhận bất kỳ chỉnh sửa nào của bạn.
 
 Trong trường hợp này, hãy mở một ISSUE mới. Vui lòng đọc kỹ hướng dẫn sử dụng trước khi dùng!
 
-> Please note clearly if your ISSUE is closed with failue (:heavy_multiplication_x:) we will not accept any of your edits, open a new ISSUE.
+> :warning: Please note clearly if your ISSUE is closed with failue (:heavy_multiplication_x:) we will not accept any of your edits, open a new ISSUE.
 > 
 > Please read the user manual carefully before use!
 
