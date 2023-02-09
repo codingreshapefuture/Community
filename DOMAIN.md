@@ -112,6 +112,8 @@ This will hopefully be fixed soon.
 
 Hướng dẫn cách sử dụng tên miền (cho Github, các tài liệu khác vui lòng liên hệ để biết thêm chi tiết)
 
+0. :warning: Github mới cập nhật chính sách nên cần xác thực trước khi dùng (kiểm tra [issue #51](https://github.com/codingreshapefuture/Community/issues/51))
+
 1. Go to Settings of your repo
 
 ![image](https://user-images.githubusercontent.com/90561566/215924891-665ed629-f506-438e-acdb-cf620f082df0.png)
