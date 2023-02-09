@@ -120,9 +120,9 @@ Hướng dẫn cách sử dụng tên miền (cho Github, các tài liệu khác
 
 ![image](https://user-images.githubusercontent.com/90561566/215925123-6f04492e-ece6-40cd-87b8-04bb7c308d9e.png)
 
-3. Fill out your domain at Custom domain
+3. Fill out your domain at Custom domain section
 
-![image](https://user-images.githubusercontent.com/90561566/215925481-fd03bf8c-487e-45de-b90e-7c4c9ed7b21f.png)
+![image](https://user-images.githubusercontent.com/90561566/217713061-a3a7587c-fc32-4071-b31b-85668baa203a.png)
 
 4. Turn on this for secure your connection with HTTPS
 
