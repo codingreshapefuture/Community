@@ -34,9 +34,9 @@
 
 ## Introduction
 
-### cyou - A New Domain Extension For Gen Z individuals And Brands
+### `.cyou` -  `#WeCyou` : A New Domain Extension For Gen Z individuals And Brands
 
-![image](https://user-images.githubusercontent.com/90561566/217001829-b75b3c11-0d4f-4a39-b02a-327080f4a03a.png)
+![image](https://user-images.githubusercontent.com/90561566/217713591-c4335c83-2ac1-423e-9232-78e545c5a4c4.png)
 
 `.cyou`, short for "See You", is a new-age domain extension crafted for today's generation of creative personalities and pathbreaking businesses that thrive on the Internet and have never witnessed a world without social media.  
 
