@@ -114,7 +114,7 @@ Hướng dẫn cách sử dụng tên miền (cho Github, các tài liệu khác
 
 > :warning: Lưu ý: Github mới cập nhật chính sách nên cần xác thực trước khi dùng (bắt buộc)
 > 
-> Vui lòng kiểm tra [issue #51](https://github.com/codingreshapefuture/Community/issues/51)) cho giải pháp
+> Vui lòng kiểm tra [issue #51](https://github.com/codingreshapefuture/Community/issues/51) cho giải pháp
 
 1. Go to Settings of your repo
 
