@@ -54,19 +54,6 @@ Tiện đây mình cũng sẽ mở một offer cho các bạn yêu thích CRF c�
 Đối với các thành viên CRF, các bạn còn có thể sở hữu cho mình một email doanh nghiệp thuộc CRF của riêng mình thay vì gmail.com quá đỗi phổ biến.
 + Ví dụ: Tên bạn là "namdz", email bạn sẽ là "namdz@crfnetwork.cyou"
 
-## Dịch vụ hỗ trợ
-
-Các bạn sẽ được cấp một free subdomain `*.crfnetwork.cyou` (example.crfnetwork.cyou)
-
-### Dịch vụ chưa hỗ trợ
-
-+ Cloudflare (for NS)
-+ Netlify (for website)
-+ Vercel (for websites).
-+ Custom host (contact us for more)
-
-This will hopefully be fixed soon.
-
 ## Settings
 
 | Setting | [`*.crfnetwork.cyou`](https://www.crfnetwork.cyou) |
@@ -81,6 +68,25 @@ This will hopefully be fixed soon.
 | WAF (Web Application Firewall)*                      | Medium Security Level | 
 | Browser Integrity Check*                             | ✅ |
 | [Caching Level](https://developers.cloudflare.com/cache/how-to/set-caching-levels), Browser Cache TTL* | Standard, 4 hours |
+
+## Dịch vụ hỗ trợ
+
+Các bạn sẽ được cấp một free subdomain `*.crfnetwork.cyou` (example.crfnetwork.cyou)
+
++ Github page (for user)
++ Github page (for personal project)
++ Github page (for personal repo)
+
+### Dịch vụ chưa hỗ trợ
+
++ Cloudflare (for NS)
++ Netlify (for website)
++ Vercel (for websites).
++ Custom host (contact us for more)
+
+Đối với bạn nào muốn sử dụng domain cho nền tảng khác vui lòng liên hệ qua [facebook](https://www.facebook.com/codingreshapefuture) để được hỗ trợ xác minh riêng. 
+
+(\* Để hạn chế spam, chúng tôi chỉ nhận hỗ trợ tối đa 1 bản ghi record xác minh với mỗi người dùng)
 
 ## Cách đăng ký tên miền
 
