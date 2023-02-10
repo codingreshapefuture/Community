@@ -91,13 +91,14 @@ Các bạn sẽ được cấp một free subdomain `*.crfnetwork.cyou` (example
 ## Cách đăng ký tên miền
 
 1. Đầu tiên, đảm bảo bạn đã **Star** và **[Fork](https://github.com/codingreshapefuture/Community/fork)** dự án này
-2. Trước khi bắt đầu, hãy chọn cho mình một cái tên thật ngầu và độc nhất, kiểm tra những tên miền đã được duyệt và đăng ký tại [Closed Issues](https://github.com/codingreshapefuture/Community/issues?q=is%3Aissue+is%3Aclosed)
-3. Mở một **[Issue](https://github.com/codingreshapefuture/Community/issues/new/choose)** và cung cấp thông tin như hình bên dưới
-4. Chỉnh sửa thông tin của bạn theo hướng dẫn
-5. :warning: Chắc chắn bạn đã đọc trạng thái phản hồi và luật phòng chống vi phạm tại [ISSUE_REVIEW](https://github.com/codingreshapefuture/Community/blob/main/ISSUE_REVIEW.md) trước khi yêu cầu
-6. Đợi **Issue** được xem xét và theo dõi mọi cập nhật về **Issue** của bạn tại email hoặc tại github.
-7. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [\*.crfnetwork.cyou](https://www.crfnetwork.cyou/). :confetti_ball:
-8. Một lần nữa, chúc mừng bạn đã tham gia vào cộng đồng CRF - Coding Reshape Future. Tận hưởng tên miền mới của bạn!
+2. Trước khi bắt đầu, hãy chọn cho mình một cái tên thật ngầu và độc nhất
+3. Đảm bảo tên miền của bạn không trùn với các miền đã được duyệt tại [Closed Issues](https://github.com/codingreshapefuture/Community/issues?q=is%3Aissue+is%3Aclosed)
+4. Mở một **[Issue](https://github.com/codingreshapefuture/Community/issues/new/choose)** và cung cấp thông tin như hình bên dưới
+5. Chỉnh sửa thông tin của bạn theo hướng dẫn
+6. :warning: Chắc chắn bạn đã đọc trạng thái phản hồi và luật phòng chống vi phạm tại [ISSUE_REVIEW](https://github.com/codingreshapefuture/Community/blob/main/ISSUE_REVIEW.md) trước khi yêu cầu
+7. Đợi **Issue** được xem xét và theo dõi mọi cập nhật về **Issue** của bạn tại email hoặc tại github.
+8. Sau khi mọi việc hoàn thành, tên miền của bạn sẽ khả dụng tại [\*.crfnetwork.cyou](https://www.crfnetwork.cyou/). :confetti_ball:
+9. Một lần nữa, chúc mừng bạn đã tham gia vào cộng đồng CRF - Coding Reshape Future. Tận hưởng tên miền mới của bạn!
 
 ![image](https://user-images.githubusercontent.com/90561566/215926201-088c6729-f7ed-4a42-befb-bcee47ade350.png)
 
